@@ -1,8 +1,19 @@
-### Hi there, I'm Gustavo. Welcome to my personal profile page! 👋 ###
+### Welcome to my personal profile page. ###
+Over 10 years in the Information Technology field, with experience in the following activities:
+• Planning and implementation of ETL projects (on-premises and cloud).
+• Creation and maintenance of data pipelines in various stacks and tools.
+• Systematic support to the Business Intelligence and Data Analysis sectors.
+• Development of reports and dashboards using Power BI and Excel.
+• Implementation and Administration of IT Infrastructure.
 
-- I speak Portuguese (native) and English (fluent).
-- I’m looking to collaborate on ....
-- How to reach me: gustavo490@gmail.com
+### Bem-vindo(a) à minha página pessoal. ###
+Mais de 10 anos na área de Tecnologia da Informação, com vivência nas seguintes atividades:
+•	Planejamento e implantação de projetos de ETL (on-premises e cloud). 
+•	Criação e manutenção de pipeline de dados em diversos stacks e ferramentas.
+•	Apoio sistêmico aos setores de Business Intelligence e de Análise de Dados.
+•	Desenvolvimento de relatórios e dashboards utilizando Power BI e Excel.
+•	Implantação e Administração de Infraestrutura de TI.
+
 
 <div align="center" dir="auto">
   <a href="https://github.com/gustavospcosta">
@@ -11,6 +22,7 @@
   </a>
 </div>
 
+### Technologies / Tecnologias ###
 <div dir="auto">
   <br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"><img align="center" alt="Gustavo-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" style="max-width: 100%;"></a>
@@ -29,5 +41,12 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><img align="center" alt="Gustavo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"><img align="center" alt="Gustavo-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg"><img align="center" alt="Gustavo-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" style="max-width: 100%;"></a>
+</br>
+</div>
+
+### Professional Network / Rede Profissional ###
+<div dir="auto">
+<br>
+<a href="https://www.linkedin.com/in/gustavo-de-souza-pessanha-54347344/" type=""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="minha-rede"/> </a>
 </br>
 </div>
