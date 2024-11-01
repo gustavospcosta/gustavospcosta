@@ -47,6 +47,6 @@ Mais de 10 anos na área de Tecnologia da Informação, com vivência nas seguin
 ### Professional Network / Rede Profissional ###
 <div dir="auto">
 <br>
-<a href="https://www.linkedin.com/in/gustavo-de-souza-pessanha-54347344/" type=""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="minha-rede"/> </a>
+<a href="https:www.linkedin.com/in/gspcosta/" type=""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="minha-rede"/> </a>
 </br>
 </div>
